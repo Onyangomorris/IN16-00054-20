@@ -1,0 +1,59 @@
+body{
+    background-image:url("university.jpg");
+    background-size: cover;
+    background-repeat: repeat-y;
+}
+.center{
+    background-color:transparent;
+}
+.center h1{
+    text-align: center;
+    color: rgb(2, 2, 80);
+}
+.inpt{
+    text-align: center;
+    font-size: large;
+    font-size: larger;
+    color: #030745;
+    font-weight: bold;
+}
+.inpt input{
+    background-color:thistle;
+    margin: auto;
+    display: block;
+    border: 0;
+}
+.inpt textarea {
+    background-color:thistle;
+    margin: auto;
+    display: block;
+    border: 0;
+
+}
+.genderbtn{
+    text-align: center;
+}
+.genderbtn input{
+    background-color: aqua;
+    margin: auto;
+    display: inline-flex;
+    border: 0;
+    width: 20px;
+}
+.workexpbtn{
+    text-align: center;
+
+    
+}
+.workexpbtn input{
+    background-color: aqua;
+    margin: auto;
+    display: inline-flex;
+    border: 0;
+    width: 20px;
+}
+input.submitbtn{
+    width: 20%;
+    min-height: fit-content;
+    font-size:larger;
+}
